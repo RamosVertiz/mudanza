@@ -156,7 +156,7 @@ const productsData = [
     name: "Balanza Digital",
     description: "Balanza de baño ATMA",
     category: "varios",
-    price:  4000,
+    price:  3000,
     img: "./assets/img/varios/balanza.jpg",
     },
     {
@@ -232,6 +232,9 @@ const productsData = [
     img: "./assets/img/varios/booster.jpeg",
     },   
 ];
+
+
+alert("Hola, estas son algunas de las cosas que estamos vendiendo. Si te interesa algo o queres más fotos envianos whatsapp. También tenemos algunas cosas que no estamos publicando (vajilla, cubiertos, ropa, etc.), avisanos si necesitas algo!")
 
 
 const splitProducts = (size) => {
