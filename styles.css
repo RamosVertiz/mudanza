@@ -52,12 +52,6 @@ body {
   justify-content:space-between;
 }
 
-.menu-label {
-  display: none;
-
-}
-
-
 .navbar ul li a{
   color:  #FFD900 ;
   font-size: small;
@@ -70,26 +64,6 @@ body {
   font-weight: 500;
 }
 
-  .home-icon {
-    display: none;
-  }
-
-
-  .overlay {
-    position: absolute;
-    top: 65px;
-    left: 0;
-    height: 100vh;
-    width: 100%;
-    z-index: 1;
-    background: rgba(255, 255, 255, 0.05);
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
-    display: none;
-  }
-  .show-overlay {
-    display: block;
-  }
 
 
   main {
@@ -378,51 +352,19 @@ body {
   }
 
   @media (max-width: 1200px) and (min-width: 200px){
-    
+
     header {
-      width: 100vw;
-      padding-left: 30px;
-      padding-right: 5px;
-    }
-    .navbar {
-      justify-content:start;
-      flex-direction: row-reverse;
-     
-  }
-
-
-
-  .navbar-list {
-      position: absolute;
-      top: 65px;
-      left: 5%;
-      right: 5%;
-      width: 90%;
-      flex-direction: column;
-      background-color: rgb(58, 58, 58);
-      border-top: 0px;
-      border-radius: 15px 15px 15px 15px;
-      align-items: flex-start;
-      padding: 30px 30px;
-      gap: 25px;
-      z-index: 2;
-      display: none;
-      border: #FFD900 solid 2px;
-  
-    }
+        height: 50px;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+    
     .navbar ul li a{
-      font-size: x-large;
+      font-size: x-small;
+      letter-spacing: 1px;
     }
-    .navbar ul li a:hover {
-      text-decoration: none;
-      border-bottom: none;
-      font-weight: 600;
-    }
-
-    .open-menu {
-      display: flex;
-    }  
-
+      
+   
 
     main {
         margin-top: 30px;
