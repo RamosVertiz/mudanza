@@ -28,7 +28,7 @@ const productsData = [
     name: "AIRE ACONDICIONADO",
     description: "F/C DELONGHI 2250 FRIGORIAS",
     category: "electro",
-    price: 70000,
+    price: 65000,
     img: "./assets/img/electro/Delonghi.jpg",
     },
     {
@@ -153,6 +153,14 @@ const productsData = [
     }, 
     {
     id: 20,
+    name: "Cama funcional",
+    description: "3 Cajones, baulera",
+    category: "habitacion",
+    price: 55000,
+    img: "./assets/img/habitacion/camaFuncional.jpg",
+    }, 
+    {
+    id: 21,
     name: "Balanza Digital",
     description: "Balanza de baño ATMA",
     category: "varios",
@@ -160,7 +168,7 @@ const productsData = [
     img: "./assets/img/varios/balanza.jpg",
     },
     {
-    id: 21,
+    id: 22,
     name: "Cafetera Dolce Gusto",
     description: "Color negro, corte manual",
     category: "varios",
@@ -168,15 +176,15 @@ const productsData = [
     img: "./assets/img/varios/cafetera.jpeg",
     },
     {
-    id: 22,
+    id: 23,
     name: "Lechera espumador",
     description: "nespresso aeroccino 4",
     category: "varios",
     price:  35000,
-    img: "./assets/img/varios/lechera.jpeg",
+    img: "./assets/img/varios/lecheraVendido.jpg",
     },
     {
-    id: 23,
+    id: 24,
     name: "Perchero Madera",
     description: "Perchero de pared con estante superior",
     category: "varios",
@@ -184,7 +192,7 @@ const productsData = [
     img: "./assets/img/varios/perchero1.jpeg",
     },
     {
-    id: 24,
+    id: 25,
     name: "Estante Mensula Hierro x 2",
     description: "Color natural",
     category: "varios",
@@ -192,7 +200,7 @@ const productsData = [
     img: "./assets/img/varios/perchero2.jpeg",
     },
     {
-    id: 25,
+    id: 26,
     name: "Estante Mensula Hierro x 3",
     description: "Color natural",
     category: "varios",
@@ -200,7 +208,7 @@ const productsData = [
     img: "./assets/img/varios/perchero3.jpeg",
     },
     {
-    id: 26,
+    id: 27,
     name: "Lampara de Techo",
     description: "Colgante color negro y blanco",
     category: "varios",
@@ -208,7 +216,7 @@ const productsData = [
     img: "./assets/img/varios/lampara.jpeg",
     },
     {
-    id: 27,
+    id: 28,
     name: "Escalera Aluminio",
     description: "Escalera articulada - 16 escalones",
     category: "varios",
@@ -216,7 +224,7 @@ const productsData = [
     img: "./assets/img/varios/escalera.jpeg",
     },
     {
-    id: 28,
+    id: 29,
     name: "Espejo",
     description: "borde rosa",
     category: "varios",
@@ -224,7 +232,7 @@ const productsData = [
     img: "./assets/img/varios/espejo.jpeg",
     },                  
     {
-    id: 29,
+    id: 30,
     name: "Booster",
     description: "Graco, sin respaldo",
     category: "varios",
