@@ -12,7 +12,7 @@ const productsData = [
     name: "TV LG 32''",
     description: "LCD",
     category: "electro",
-    price: 32000,
+    price: 30000,
     img: "./assets/img/electro/tvLG32.jpg",
     },
     {
