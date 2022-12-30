@@ -4,7 +4,7 @@ const productsData = [
     name: "TV Phillips 24''",
     description: "Color blanco",
     category: "electro",
-    price:  20000,
+    price: 23000,
     img: "./assets/img/electro/tv24.jpg",
     },
     {
@@ -12,7 +12,7 @@ const productsData = [
     name: "TV LG 32''",
     description: "LCD",
     category: "electro",
-    price:  30000,
+    price: 32000,
     img: "./assets/img/electro/tvLG32.jpg",
     },
     {
@@ -20,7 +20,7 @@ const productsData = [
     name: "TV LG 32''",
     description: "Smart TV",
     category: "electro",
-    price:  40000,
+    price: 40000,
     img: "./assets/img/electro/tvSmart.jpg",
     },
     {
@@ -28,7 +28,7 @@ const productsData = [
     name: "AIRE ACONDICIONADO",
     description: "F/C DELONGHI 2250 FRIGORIAS",
     category: "electro",
-    price:  20000,
+    price: 70000,
     img: "./assets/img/electro/Delonghi.jpg",
     },
     {
@@ -36,7 +36,7 @@ const productsData = [
     name: "AIRE ACONDICIONADO",
     description: "F/C DAEWOO 3250 FRIGORIAS",
     category: "electro",
-    price:  30000,
+    price: 80000,
     img: "./assets/img/electro/daewo.jpg",
     },
     {
@@ -44,7 +44,7 @@ const productsData = [
     name: "LAVARROPAS WHIRPOOL",
     description: "9 KG, digital, carga superior,",
     category: "electro",
-    price:  40000,
+    price: 90000,
     img: "./assets/img/electro/lavarropas.jpg",
     },
     {
@@ -52,7 +52,7 @@ const productsData = [
     name: "Panel Calefactor",
     description: "Energy Safe, Potencia: 1000W",
     category: "electro",
-    price:  40000,
+    price: 15000,
     img: "./assets/img/electro/caloventor.jpeg",
     },
     {
@@ -60,7 +60,7 @@ const productsData = [
     name: "Silla de cocina x 5",
     category: "sillassillones",
     description: "Color gris, patas color madera",
-    price:  4000,
+    price: 9000,
     img: "./assets/img/sillas/cocina.jpg",
     },
     {
@@ -68,7 +68,7 @@ const productsData = [
     name: "Sillón Paulin",
     category: "sillassillones",
     description: "Chenille color rojo",
-    price:  4000,
+    price: 20000,
     img: "./assets/img/sillas/paulin.jpeg",
     },
     {
@@ -76,7 +76,7 @@ const productsData = [
     name: "Butaca",
     category: "sillassillones",
     description: "dos cuerpos, color marron",
-    price:  4000,
+    price: 20000,
     img: "./assets/img/sillas/butaca.jpg",
     },
     {
@@ -84,7 +84,7 @@ const productsData = [
     name: "Mueble recibidor",
     category: "muebles",
     description: "color gris, tapa color madera ",
-    price:  4000,
+    price: 50000,
     img: "./assets/img/muebles/recibidor.jpeg",
     },
     {
@@ -92,7 +92,7 @@ const productsData = [
     name: "Mueble organizador",
     description: "color natural, tapa color madera ",
     category: "muebles",
-    price:  4000,
+    price: 60000,
     img: "./assets/img/muebles/muebleCocina.jpg",
     },
     {
@@ -100,7 +100,7 @@ const productsData = [
     name: "Cajonera",
     description: "color natural",
     category: "muebles",
-    price:  4000,
+    price: 20000,
     img: "./assets/img/muebles/cajonera.jpeg",
     },
     {
@@ -108,7 +108,7 @@ const productsData = [
     name: "Cajonera",
     description: "Madera, 5 cajones",
     category: "muebles",
-    price:  4000,
+    price: 20000,
     img: "./assets/img/muebles/cajoneraMadera.jpeg",
     },
     {
@@ -116,7 +116,7 @@ const productsData = [
     name: "Cajonera",
     category: "muebles",
     description: "Color blanco, 4 cajones",
-    price:  4000,
+    price: 18000,
     img: "./assets/img/muebles/cajoneraBlanca.jpeg",
     },
     {
@@ -124,7 +124,7 @@ const productsData = [
     name: "Cajonera Negra",
     description: "Color negro, 4 cajones",
     category: "muebles",
-    price:  4000,
+    price: 20000,
     img: "./assets/img/muebles/cajoneraNegra.jpg",
     }, 
     {
@@ -132,7 +132,7 @@ const productsData = [
     name: "Mueble organizador",
     description: "Color negro, 2 puertas",
     category: "muebles",
-    price:  4000,
+    price: 18000,
     img: "./assets/img/muebles/muebleNegro.jpg",
     }, 
     {
@@ -140,7 +140,7 @@ const productsData = [
     name: "Sommier Queen",
     description: "Con colchon de 1,60 x 2,00",
     category: "habitacion",
-    price:  4000,
+    price: 100000,
     img: "./assets/img/habitacion/sommier.jpeg",
     }, 
     {
@@ -148,7 +148,7 @@ const productsData = [
     name: "Mesa de Luz x 2",
     description: "Color negro",
     category: "habitacion",
-    price:  4000,
+    price: 10000,
     img: "./assets/img/habitacion/mesaDeLuz.jpeg",
     }, 
     {
@@ -234,7 +234,7 @@ const productsData = [
 ];
 
 
-alert("Hola, estas son algunas de las cosas que estamos vendiendo. Si te interesa algo o queres más fotos envianos whatsapp. También tenemos algunas cosas que no estamos publicando (vajilla, cubiertos, ropa, etc.), avisanos si necesitas algo!")
+alert("Hola, estas son algunas de las cosas que estamos vendiendo. Si te interesa algo o queres más fotos o medidas envianos whatsapp. También tenemos algunas cosas que no estamos publicando (vajilla, cubiertos, ropa, etc.), avisanos si necesitas algo!")
 
 
 const splitProducts = (size) => {
