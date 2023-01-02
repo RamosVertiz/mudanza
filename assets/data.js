@@ -60,7 +60,7 @@ const productsData = [
     name: "Silla de cocina x 5",
     category: "sillassillones",
     description: "Color gris, patas color madera",
-    price: 9000,
+    price: [9000," c/u"],
     img: "./assets/img/sillas/cocina.jpg",
     },
     {
@@ -148,7 +148,7 @@ const productsData = [
     name: "Mesa de Luz x 2",
     description: "Color negro",
     category: "habitacion",
-    price: 10000,
+    price: [10000," c/u"],
     img: "./assets/img/habitacion/mesaDeLuz.jpeg",
     }, 
     {
@@ -196,7 +196,7 @@ const productsData = [
     name: "Estante Mensula Hierro x 2",
     description: "Color natural",
     category: "varios",
-    price:  5000,
+    price: [5000, "c/u"],
     img: "./assets/img/varios/perchero2.jpeg",
     },
     {
@@ -204,7 +204,7 @@ const productsData = [
     name: "Estante Mensula Hierro x 3",
     description: "Color natural",
     category: "varios",
-    price:  4500,
+    price:  [4500, "c/u"],
     img: "./assets/img/varios/perchero3.jpeg",
     },
     {
