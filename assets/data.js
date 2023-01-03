@@ -20,7 +20,7 @@ const productsData = [
     name: "TV LG 32''",
     description: "Smart TV",
     category: "electro",
-    price: 40000,
+    price: "VENDIDO",
     img: "./assets/img/electro/tvSmart.jpg",
     },
     {
@@ -180,7 +180,7 @@ const productsData = [
     name: "Lechera espumador",
     description: "nespresso aeroccino 4",
     category: "varios",
-    price:  35000,
+    price:  "VENDIDO",
     img: "./assets/img/varios/lecheraVendido.jpg",
     },
     {
