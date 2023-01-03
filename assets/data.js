@@ -68,7 +68,7 @@ const productsData = [
     name: "Sillón Paulin",
     category: "sillassillones",
     description: "Chenille color rojo",
-    price: 20000,
+    price: 16000,
     img: "./assets/img/sillas/paulin.jpeg",
     },
     {
@@ -100,7 +100,7 @@ const productsData = [
     name: "Cajonera",
     description: "color natural",
     category: "muebles",
-    price: 20000,
+    price: 17000,
     img: "./assets/img/muebles/cajonera.jpeg",
     },
     {
@@ -124,7 +124,7 @@ const productsData = [
     name: "Cajonera Negra",
     description: "Color negro, 4 cajones",
     category: "muebles",
-    price: 20000,
+    price: 17000,
     img: "./assets/img/muebles/cajoneraNegra.jpg",
     }, 
     {
@@ -148,7 +148,7 @@ const productsData = [
     name: "Mesa de Luz x 2",
     description: "Color negro",
     category: "habitacion",
-    price: [10000," c/u"],
+    price: [8000," c/u"],
     img: "./assets/img/habitacion/mesaDeLuz.jpeg",
     }, 
     {
