@@ -24,7 +24,7 @@ const renderProduct = (product) => {
             <h3>${name}</h3>
             <p>${description}</p>
             <div class="product-offer">
-                <p>$${price}</p>
+                <p>${price}</p>
                 <a 
                 href="https://api.whatsapp.com/send?phone=5491166168493&text=Hola,%20te%20escribo%20por%20la%20venta%20por%20mudanza." target="_blank"
                 class="btn-add"
