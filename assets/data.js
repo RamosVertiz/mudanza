@@ -12,7 +12,7 @@ const productsData = [
     name: "TV LG 32''",
     description: "LCD",
     category: "electro",
-    price: "$ 30000",
+    price: "VENDIDO",
     img: "./assets/img/electro/tvLG32.jpg",
     },
     {
@@ -164,7 +164,7 @@ const productsData = [
     name: "Balanza Digital",
     description: "Balanza de baño ATMA",
     category: "varios",
-    price:  "$ 3000",
+    price:  "VENDIDO",
     img: "./assets/img/varios/balanza.jpg",
     },
     {
