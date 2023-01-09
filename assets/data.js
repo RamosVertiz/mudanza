@@ -60,7 +60,7 @@ const productsData = [
       name: "Impresora Samsung",
       description: "Impresora Láser con wifi",
       category: "electro",
-      price: "$ 20000",
+      price: "VENDIDO",
       img: "./assets/img/electro/impresora.jpg",
       },
     {
