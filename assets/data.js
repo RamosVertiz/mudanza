@@ -4,7 +4,7 @@ const productsData = [
     name: "TV Phillips 24''",
     description: "Color blanco",
     category: "electro",
-    price: "$ 23000",
+    price: "$ 22000",
     img: "./assets/img/electro/tv24.jpg",
     },
     {
@@ -28,7 +28,7 @@ const productsData = [
     name: "AIRE ACONDICIONADO",
     description: "F/C DELONGHI 2250 FRIGORIAS",
     category: "electro",
-    price: "$ 60000",
+    price: "$ 50000",
     img: "./assets/img/electro/Delonghi.jpg",
     },
     {
@@ -36,7 +36,7 @@ const productsData = [
     name: "AIRE ACONDICIONADO",
     description: "F/C DAEWOO 3250 FRIGORIAS",
     category: "electro",
-    price: "$ 75000",
+    price: "$ 70000",
     img: "./assets/img/electro/daewo.jpg",
     },
     {
@@ -44,7 +44,7 @@ const productsData = [
     name: "LAVARROPAS WHIRPOOL",
     description: "9 KG, digital, carga superior,",
     category: "electro",
-    price: "$ 90000",
+    price: "$ 80000",
     img: "./assets/img/electro/lavarropas.jpg",
     },
     {
@@ -52,15 +52,23 @@ const productsData = [
     name: "Panel Calefactor",
     description: "Energy Safe, Potencia: 1000W",
     category: "electro",
-    price: "$ 13000",
+    price: "$ 12000",
     img: "./assets/img/electro/caloventor.jpeg",
     },
+    {
+      id: 8,
+      name: "Impresora Samsung",
+      description: "Impresora Láser con wifi",
+      category: "electro",
+      price: "$ 20000",
+      img: "./assets/img/electro/impresora.jpg",
+      },
     {
     id: 9,
     name: "Silla de cocina x 5",
     category: "sillassillones",
     description: "Color gris, patas color madera",
-    price: "$ 9000 c/u",
+    price: "$ 8000 c/u",
     img: "./assets/img/sillas/cocina.jpg",
     },
     {
@@ -68,7 +76,7 @@ const productsData = [
     name: "Sillón Paulin",
     category: "sillassillones",
     description: "Chenille color rojo",
-    price: "$ 16000",
+    price: "$ 15000",
     img: "./assets/img/sillas/paulin.jpeg",
     },
     {
@@ -76,7 +84,7 @@ const productsData = [
     name: "Butaca",
     category: "sillassillones",
     description: "dos cuerpos, color marron",
-    price: "$ 20000",
+    price: "$ 18000",
     img: "./assets/img/sillas/butaca.jpg",
     },
     {
@@ -92,7 +100,7 @@ const productsData = [
     name: "Mueble organizador",
     description: "color natural, tapa color madera ",
     category: "muebles",
-    price: "$ 60000",
+    price: "$ 50000",
     img: "./assets/img/muebles/muebleCocina.jpg",
     },
     {
@@ -100,7 +108,7 @@ const productsData = [
     name: "Cajonera",
     description: "color natural",
     category: "muebles",
-    price: "$ 17000",
+    price: "$ 15000",
     img: "./assets/img/muebles/cajonera.jpeg",
     },
     {
@@ -116,7 +124,7 @@ const productsData = [
     name: "Cajonera",
     category: "muebles",
     description: "Color blanco, 4 cajones",
-    price: "$ 18000",
+    price: "$ 15000",
     img: "./assets/img/muebles/cajoneraBlanca.jpeg",
     },
     {
@@ -124,7 +132,7 @@ const productsData = [
     name: "Cajonera Negra",
     description: "Color negro, 4 cajones",
     category: "muebles",
-    price: "$ 17000",
+    price: "$ 15000",
     img: "./assets/img/muebles/cajoneraNegra.jpg",
     }, 
     {
@@ -132,7 +140,7 @@ const productsData = [
     name: "Mueble organizador",
     description: "Color negro, 2 puertas",
     category: "muebles",
-    price: "$ 18000",
+    price: "$ 15000",
     img: "./assets/img/muebles/muebleNegro.jpg",
     }, 
     {
@@ -140,7 +148,7 @@ const productsData = [
     name: "Sommier Queen",
     description: "Con colchon de 1,60 x 2,00",
     category: "habitacion",
-    price: "$ 100000",
+    price: "$ 90000",
     img: "./assets/img/habitacion/sommier.jpeg",
     }, 
     {
@@ -148,7 +156,7 @@ const productsData = [
     name: "Mesa de Luz x 2",
     description: "Color negro",
     category: "habitacion",
-    price: "$ 8000 c/u",
+    price: "$ 6000 c/u",
     img: "./assets/img/habitacion/mesaDeLuz.jpeg",
     }, 
     {
@@ -156,7 +164,7 @@ const productsData = [
     name: "Cama funcional",
     description: "3 Cajones, baulera",
     category: "habitacion",
-    price: "$ 55000",
+    price: "$ 50000",
     img: "./assets/img/habitacion/camaFuncional.jpg",
     }, 
     {
@@ -172,7 +180,7 @@ const productsData = [
     name: "Cafetera Dolce Gusto",
     description: "Color negro, corte manual",
     category: "varios",
-    price:  "$ 18000",
+    price:  "$ 14000",
     img: "./assets/img/varios/cafetera.jpeg",
     },
     {
@@ -188,7 +196,7 @@ const productsData = [
     name: "Perchero Madera",
     description: "Perchero de pared con estante superior",
     category: "varios",
-    price:  "$ 4500",
+    price:  "$ 4000",
     img: "./assets/img/varios/perchero1.jpeg",
     },
     {
@@ -196,7 +204,7 @@ const productsData = [
     name: "Estante Mensula Hierro x 2",
     description: "Color natural",
     category: "varios",
-    price: "$ 5000 c/u",
+    price: "$ 4500 c/u",
     img: "./assets/img/varios/perchero2.jpeg",
     },
     {
@@ -204,7 +212,7 @@ const productsData = [
     name: "Estante Mensula Hierro x 3",
     description: "Color natural",
     category: "varios",
-    price:  "$ 4500 c/u",
+    price:  "$ 4000 c/u",
     img: "./assets/img/varios/perchero3.jpeg",
     },
     {
@@ -212,31 +220,47 @@ const productsData = [
     name: "Lampara de Techo",
     description: "Colgante color negro y blanco",
     category: "varios",
-    price:  "$ 10000",
+    price:  "$ 7000",
     img: "./assets/img/varios/lampara.jpeg",
     },
     {
     id: 28,
-    name: "Escalera Aluminio",
-    description: "Escalera articulada - 16 escalones",
+    name: "Lampara de Techo",
+    description: "Colgante esfera Ø30cm",
     category: "varios",
-    price:  "$ 35000",
-    img: "./assets/img/varios/escalera.jpeg",
+    price:  "$ 7000",
+    img: "./assets/img/varios/lampara2.jpg",
     },
     {
     id: 29,
+    name: "Escalera Aluminio",
+    description: "Escalera articulada - 16 escalones",
+    category: "varios",
+    price:  "$ 30000",
+    img: "./assets/img/varios/escalera.jpeg",
+    },
+    {
+      id: 30,
+      name: "Espejo 200 x 100",
+      description: "Marco de madera color wengue",
+      category: "varios",
+      price:  "$ 13000",
+      img: "./assets/img/varios/espejo2.jpeg",
+      }, 
+    {
+    id: 31,
     name: "Espejo",
     description: "borde rosa",
     category: "varios",
-    price:  "$ 5000",
+    price:  "$ 4000",
     img: "./assets/img/varios/espejo.jpeg",
     },                  
     {
-    id: 30,
+    id: 32,
     name: "Booster",
     description: "Graco, sin respaldo",
     category: "varios",
-    price:  "$ 10000",
+    price:  "$ 8000",
     img: "./assets/img/varios/booster.jpeg",
     },   
 ];
@@ -253,9 +277,9 @@ const splitProducts = (size) => {
 };
 
 const productsController = {
-  dividedProducts: splitProducts(30), 
+  dividedProducts: splitProducts(35), 
   nextProductsIndex: 1,
-  productsLimit: splitProducts(30).length,
+  productsLimit: splitProducts(35).length,
 };
 
 
