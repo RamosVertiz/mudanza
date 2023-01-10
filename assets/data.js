@@ -28,7 +28,7 @@ const productsData = [
     name: "AIRE ACONDICIONADO",
     description: "F/C DELONGHI 2250 FRIGORIAS",
     category: "electro",
-    price: "$ 50000",
+    price: "VENDIDO",
     img: "./assets/img/electro/Delonghi.jpg",
     },
     {
@@ -36,7 +36,7 @@ const productsData = [
     name: "AIRE ACONDICIONADO",
     description: "F/C DAEWOO 3250 FRIGORIAS",
     category: "electro",
-    price: "$ 70000",
+    price: "VENDIDO",
     img: "./assets/img/electro/daewo.jpg",
     },
     {
