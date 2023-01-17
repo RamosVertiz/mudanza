@@ -68,7 +68,7 @@ const productsData = [
     name: "Silla de cocina x 5",
     category: "sillassillones",
     description: "Color gris, patas color madera",
-    price: "$ 8000 c/u",
+    price: "VENDIDO",
     img: "./assets/img/sillas/cocina.jpg",
     },
     {
@@ -180,7 +180,7 @@ const productsData = [
     name: "Cafetera Dolce Gusto",
     description: "Color negro, corte manual",
     category: "varios",
-    price:  "$ 14000",
+    price:  "VENDIDO",
     img: "./assets/img/varios/cafetera.jpeg",
     },
     {
@@ -244,7 +244,7 @@ const productsData = [
       name: "Espejo 200 x 100",
       description: "Marco de madera color wengue",
       category: "varios",
-      price:  "$ 13000",
+      price:  "VENDIDO",
       img: "./assets/img/varios/espejo2.jpeg",
       }, 
     {
